@@ -1,7 +1,7 @@
 # Archery 
 Archery in Javascript
 
-## Why ? 
+ ## Why ?
 
 for a solo Project in class
 
